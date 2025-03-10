@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21136420786",
+    "project_id": "myca-prod-firebase",
+    "storage_bucket": "myca-prod-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21136420786:android:7e7f36afde46fa70997eab",
+        "android_client_info": {
+          "package_name": "com.mycaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHJy8wJkTSz10bXA5jyXD4ESZRiOgPXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
