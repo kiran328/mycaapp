@@ -2139,6 +2139,29 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
+  - RNSentry (6.10.0):
+    - DoubleConversion
+    - glog
+    - hermes-engine
+    - RCT-Folly (= 2024.11.18.00)
+    - RCTRequired
+    - RCTTypeSafety
+    - React-Core
+    - React-debug
+    - React-Fabric
+    - React-featureflags
+    - React-graphics
+    - React-hermes
+    - React-ImageManager
+    - React-NativeModulesApple
+    - React-RCTFabric
+    - React-rendererdebug
+    - React-utils
+    - ReactCodegen
+    - ReactCommon/turbomodule/bridging
+    - ReactCommon/turbomodule/core
+    - Sentry/HybridSDK (= 8.48.0)
+    - Yoga
   - RNSoundPlayer (0.14.5):
     - React-Core
   - RNSVG (15.11.2):
@@ -2211,6 +2234,7 @@ PODS:
   - SDWebImageWebPCoder (0.8.5):
     - libwebp (~> 1.0)
     - SDWebImage/Core (~> 5.10)
+  - Sentry/HybridSDK (8.48.0)
   - SocketRocket (0.7.1)
   - TextToSpeech (4.1.1):
     - React-Core
@@ -2310,6 +2334,7 @@ DEPENDENCIES:
   - RNLocalize (from `../node_modules/react-native-localize`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
+  - "RNSentry (from `../node_modules/@sentry/react-native`)"
   - RNSoundPlayer (from `../node_modules/react-native-sound-player`)
   - RNSVG (from `../node_modules/react-native-svg`)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
@@ -2333,6 +2358,7 @@ SPEC REPOS:
     - PromisesObjC
     - SDWebImage
     - SDWebImageWebPCoder
+    - Sentry
     - SocketRocket
     - YoutubePlayer-in-WKWebView
 
@@ -2518,6 +2544,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-reanimated"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+  RNSentry:
+    :path: "../node_modules/@sentry/react-native"
   RNSoundPlayer:
     :path: "../node_modules/react-native-sound-player"
   RNSVG:
@@ -2633,11 +2661,13 @@ SPEC CHECKSUMS:
   RNLocalize: 530c85d94ac53e0ce316f6fdf5d47545a687fca9
   RNReanimated: 69e04af621f711cc3bef253fe4e3e2a2c4505875
   RNScreens: 77f93ec55b749c49549b447527ebf78e990125f3
+  RNSentry: b0337e256f42ea8ad52c7a1a1634f94c2bfcbeea
   RNSoundPlayer: 95b72e12a6990e4fabfd71b1c7fac579f9e60e75
   RNSVG: 05776cf3f0d52d3f8e7ebee34b2189da7b8638ff
   RNVectorIcons: f3e9354fca73876447d183d4b18955e52cd3695c
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
   SDWebImageWebPCoder: 908b83b6adda48effe7667cd2b7f78c897e5111d
+  Sentry: 1ca8405451040482877dcd344dfa3ef80b646631
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
   TextToSpeech: 2b930ec3756afde499061f4f01ea895e1f75dccb
   Yoga: d89d04d86b5af18317f481166dccc48213d26927

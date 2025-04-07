@@ -1,0 +1,51 @@
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @firebase/auth@1.9.0
+npm WARN Found: @react-native-async-storage/async-storage@2.1.2
+npm WARN node_modules/@react-native-async-storage/async-storage
+npm WARN   peerOptional @react-native-async-storage/async-storage@">=1.0.0" from posthog-react-native@3.11.2
+npm WARN   node_modules/posthog-react-native
+npm WARN     posthog-react-native@"^3.11.2" from the root project
+npm WARN   1 more (the root project)
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peerOptional @react-native-async-storage/async-storage@"^1.18.1" from @firebase/auth@1.9.0
+npm WARN node_modules/@firebase/auth
+npm WARN   @firebase/auth@"1.9.0" from @firebase/auth-compat@0.5.18
+npm WARN   node_modules/@firebase/auth-compat
+npm WARN   1 more (firebase)
+npm WARN 
+npm WARN Conflicting peer dependency: @react-native-async-storage/async-storage@1.24.0
+npm WARN node_modules/@react-native-async-storage/async-storage
+npm WARN   peerOptional @react-native-async-storage/async-storage@"^1.18.1" from @firebase/auth@1.9.0
+npm WARN   node_modules/@firebase/auth
+npm WARN     @firebase/auth@"1.9.0" from @firebase/auth-compat@0.5.18
+npm WARN     node_modules/@firebase/auth-compat
+npm WARN     1 more (firebase)
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve
+npm ERR! 
+npm ERR! While resolving: @rneui/themed@4.0.0-rc.8
+npm ERR! Found: @rneui/base@4.0.0-rc.8
+npm ERR! node_modules/@rneui/base
+npm ERR!   @rneui/base@"^4.0.0-rc.8" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer @rneui/base@"4.0.0-rc.7" from @rneui/themed@4.0.0-rc.8
+npm ERR! node_modules/@rneui/themed
+npm ERR!   @rneui/themed@"^4.0.0-rc.8" from the root project
+npm ERR! 
+npm ERR! Conflicting peer dependency: @rneui/base@4.0.0-rc.7
+npm ERR! node_modules/@rneui/base
+npm ERR!   peer @rneui/base@"4.0.0-rc.7" from @rneui/themed@4.0.0-rc.8
+npm ERR!   node_modules/@rneui/themed
+npm ERR!     @rneui/themed@"^4.0.0-rc.8" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /Users/buzzybrains/.npm/_logs/2025-04-07T12_03_23_651Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: /Users/buzzybrains/.npm/_logs/2025-04-07T12_03_23_651Z-debug-0.log
