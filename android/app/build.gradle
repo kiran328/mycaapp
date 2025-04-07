@@ -25,6 +25,7 @@ sentry {
     autoInstallation {
       enabled = false
     }
+    debug = true
 }
 
 /**
