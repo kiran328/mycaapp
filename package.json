@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "pod-install": "cd ios && RCT_NEW_ARCH_ENABLED=1 bundle exec pod install"
   },
   "dependencies": {
     "@animatereactnative/marquee": "^0.5.2",
@@ -50,6 +51,7 @@
     "react-native-in-app-review": "^4.3.5",
     "react-native-inappbrowser-reborn": "^3.7.0",
     "react-native-localize": "^3.4.1",
+    "react-native-mmkv": "^3.2.0",
     "react-native-modal": "^13.0.1",
     "react-native-orientation-locker": "^1.7.0",
     "react-native-pager-view": "^6.7.0",
