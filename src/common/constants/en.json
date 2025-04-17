@@ -1,0 +1,100 @@
+{
+    "explorer": "Explorer",
+    "patient": "Patient",
+    "caregiver": "Caregiver",
+    "chw": "Health Worker",
+
+    "choose-profile": "Choose a Profile",
+
+    "verify-otp": "Verify OTP",
+    "Login": "Login",
+
+    "LetsGetStarted": "Let's Get Started",
+
+    "OTPRESENDMessage": "Didn't Receive OTP?",
+    "ResendIn": "Resend in",
+
+    "seconds": "seconds",
+    "minutes": "minute",
+    "hours": "hour",
+    "week": "week",
+    "month": "month",
+    "year": "year",
+
+    "Resend": "Resend",
+    "SubmitButton": "Submit",
+    "NextButton": "Next",
+    "Part": "Part",
+    "Summary": "Summary",
+
+    "Exit": "Exit",
+
+    "Time": "Time",
+    "Points": "Points",
+
+    "CorrectAnswers": "Correct Answers",
+    "WrongAnswers": "Wrong Answers",
+
+    "YouHaveSpent": "Learning time on this module",
+    "InThisChapter": "Quiz Summary",
+
+    "YouEarned": "You have earned",
+    "OnThisChapter": "on this module",
+
+    "SelectOption": "Please select an option!",
+    "MCQCorrectMessage": "Congrats! Your answer is correct.",
+    "MCQIncorrectMessage": "Sorry! Your answer is incorrect.",
+    "SeeAnswer": "See Answer",
+
+    "TodaysActivity": "Today's Activity",
+
+    "MentalWellBeing": "My Mental Well Being",
+    "MentalEducation": "Mental Health Education",
+    "Chat": "Chat with MYCA",
+    "Stories&Puzzles": "Stories & Puzzles",
+    "Helpline": "Helpline",
+    "Notifications": "Notification messages",
+
+    "SelfAssessment": "Self\nAssessment",
+    "SelfAssessmentList": "Self Assessement",
+    "MoodCalender": "Mood Calendar",
+    "PersonalDiary": "Personal Diary",
+    "BreathingCompanion": "Breathing Companion",
+    "GuidedExercise": "Guided Exercise",
+    "GuidedMeditation": "Guided Meditation",
+
+    "EndofElements": "End of Elements",
+    "NoPreviousElements": "No Previous Elements",
+
+    "SeeExpertAnswer": "Expert Answer",
+
+    "YourMood": "Today you are in a",
+    "Hi": "Hi",
+    "Howareyoutoday": "How are you feeling today?",
+
+    "Reminder": "Reminder",
+
+    "Home": "Home",
+    "FAQ": "F.A.Q",
+    "AboutUs": "About Us",
+    "Settings": "Settings",
+    "Feedback": "Feedback",
+    "ChangeLanguage": "Change Language: ",
+    "TnC": "Terms & Conditions",
+    "RateUs": "Rate Us",
+    "Logout": "Logout",
+
+    "StartChatting": "Start Chatting",
+    "NoInternet": "No Internet Connection!",
+    "CheckConnection": "Please check your internet connection and try again!",
+
+    "ComingSoon": "Coming Soon",
+    "TearmsandConditions": "I agree to the terms and conditions.",
+
+    "Type...": "Type your message...",
+    "YourExperience": "How was your experience?",
+    "Maintenance": "I am under maintenance, \nHang tight, I'll be back!\n",
+    "ChatbotTagline": "What’s on your mind?",
+    "Date": "Dates",
+    "Score": "Score"
+}

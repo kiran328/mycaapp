@@ -1,0 +1,11 @@
+{
+    "theme-color": "#FCDCFF",
+    "theme-backgroung-color": "#FAF1FF",
+    "hotpink": "#FF69B4",
+
+    "language-buttons": "#71C45B",
+    
+    "success": "#53a653",
+    "error": "#ff3333",
+    "warning": "#ffcc00"
+}
